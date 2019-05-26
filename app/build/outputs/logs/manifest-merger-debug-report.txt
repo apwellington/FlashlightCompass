@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e7cef30ab5ac787e7213a41d4082a9ad\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\f79894fa890a427446a1662c7991086a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e14d09455fcea9710755cb9f410dacd3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\fa3aa52e48a73959a07d6c1356468859\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\d57f283664b682840f9e8327ea3eb863\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e12a093300ce55402a0aba723566da3a\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\687cfb07af53c4c61d1bdf8ee171a688\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:8:5-69
+	android:name
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:8:22-66
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:12:22-64
+application
+ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:14:5-30:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e7cef30ab5ac787e7213a41d4082a9ad\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e7cef30ab5ac787e7213a41d4082a9ad\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\f79894fa890a427446a1662c7991086a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\f79894fa890a427446a1662c7991086a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e14d09455fcea9710755cb9f410dacd3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e14d09455fcea9710755cb9f410dacd3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\fa3aa52e48a73959a07d6c1356468859\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\fa3aa52e48a73959a07d6c1356468859\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\d57f283664b682840f9e8327ea3eb863\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\d57f283664b682840f9e8327ea3eb863\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e12a093300ce55402a0aba723566da3a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e12a093300ce55402a0aba723566da3a\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\687cfb07af53c4c61d1bdf8ee171a688\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\687cfb07af53c4c61d1bdf8ee171a688\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:16:9-49
+	android:allowBackup
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:15:9-35
+activity#com.gibittec.MainActivity
+ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:18:9-27:20
+	android:screenOrientation
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:20:13-49
+	android:theme
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:21:13-77
+	android:name
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:19:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.google.ads.AdActivity
+ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:28:9-29:124
+	android:configChanges
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:29:13-122
+	android:name
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml:28:19-59
+uses-sdk
+INJECTED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e7cef30ab5ac787e7213a41d4082a9ad\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e7cef30ab5ac787e7213a41d4082a9ad\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\f79894fa890a427446a1662c7991086a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\f79894fa890a427446a1662c7991086a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e14d09455fcea9710755cb9f410dacd3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e14d09455fcea9710755cb9f410dacd3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\fa3aa52e48a73959a07d6c1356468859\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\fa3aa52e48a73959a07d6c1356468859\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\d57f283664b682840f9e8327ea3eb863\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\d57f283664b682840f9e8327ea3eb863\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e12a093300ce55402a0aba723566da3a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e12a093300ce55402a0aba723566da3a\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\687cfb07af53c4c61d1bdf8ee171a688\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\687cfb07af53c4c61d1bdf8ee171a688\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e7cef30ab5ac787e7213a41d4082a9ad\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wellington\Documents\Pryectos\recoverdeletedphoto\pr\FlashlightCompass\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e7cef30ab5ac787e7213a41d4082a9ad\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\f79894fa890a427446a1662c7991086a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\f79894fa890a427446a1662c7991086a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e14d09455fcea9710755cb9f410dacd3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e14d09455fcea9710755cb9f410dacd3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\fa3aa52e48a73959a07d6c1356468859\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\fa3aa52e48a73959a07d6c1356468859\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\d57f283664b682840f9e8327ea3eb863\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\d57f283664b682840f9e8327ea3eb863\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e12a093300ce55402a0aba723566da3a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e12a093300ce55402a0aba723566da3a\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e7cef30ab5ac787e7213a41d4082a9ad\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\e7cef30ab5ac787e7213a41d4082a9ad\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\687cfb07af53c4c61d1bdf8ee171a688\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\687cfb07af53c4c61d1bdf8ee171a688\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\687cfb07af53c4c61d1bdf8ee171a688\AndroidManifest.xml:26:13-58
